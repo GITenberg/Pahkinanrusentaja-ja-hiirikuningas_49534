@@ -1,10 +1,14 @@
 _repo: Pahkinanrusentaja-ja-hiirikuningas_49534
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Setälä, Salme
     alias: Setala, Salme
     gutenberg_agent_id: '39810'
     url: http://www.gutenberg.org/2009/agents/39810
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hoffmann, E. T. A. (Ernst Theodor Amadeus)
@@ -18,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2008
     wikipedia: http://en.wikipedia.org/wiki/E.T.A._Hoffmann
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49534#Pahkinanrusentaja-ja-hiirikuningas
 gutenberg_issued: '2015-07-27'
 gutenberg_type: Text
 identifiers:
